@@ -37,3 +37,6 @@ I ran the app on my local device with Search string as ***Java*** and got the fo
 | ![Image](image.jpg) |
 |:--:| 
 | ***Result*** |
+
+
+![screen (copy)](https://user-images.githubusercontent.com/50728879/84073145-e3a7f500-a9ed-11ea-83b5-255d8bb9098a.gif)
