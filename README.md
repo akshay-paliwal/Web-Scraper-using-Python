@@ -31,6 +31,9 @@ Also, the project require some HTML and CSS konwledge to build the web pages for
 	  * `Step-2.2.5` Save the gathered data into the database and return the **"result.html"** with the extracted data.
 	  
 ## Data
-In this project I extracted the job data from Linkedin whic include the Job type, Company name, Location, and URL of the job. <br>
+In this project I extracted the job data from Linkedin whic include the Job type, Company name, Location, and URL of the job.
+
 I ran the app on my local device with Search string as and got the following desired result...
-![Image](image.jpg)
+| ![Image](image.jpg) |
+|:--:| 
+| ***Result*** |
