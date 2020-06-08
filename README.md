@@ -34,9 +34,7 @@ Also, the project requires some HTML and CSS knowledge to build the web pages fo
 In this project, I extracted the job data from Linkedin which include the Job type, Company name, Location, and URL of the job.
 
 I ran the app on my local device with Search string as ***Java*** and got the following desired result...
-| ![Image](image.jpg) |
+
+| ![screen (copy)](https://user-images.githubusercontent.com/50728879/84073145-e3a7f500-a9ed-11ea-83b5-255d8bb9098a.gif) |
 |:--:| 
 | ***Result*** |
-
-
-![screen (copy)](https://user-images.githubusercontent.com/50728879/84073145-e3a7f500-a9ed-11ea-83b5-255d8bb9098a.gif)
