@@ -19,6 +19,10 @@ pip install urllib
 Also, the project requires a database to store the obtained information. I used the **MongoDB** as the database which can be installed from [here](https://www.mongodb.com/).<br>
 Also, the project requires some HTML and CSS knowledge to build the web pages for taking Keyword form the user and displaying the result to the user.
 
+## Application Architecture
+
+![Blank Diagram](https://user-images.githubusercontent.com/50728879/84113054-7e80ed80-aa47-11ea-9ac6-9bce4b728e58.png)
+
 ## Code
 * `Step-1` Start the flask app which will run the **"index.html"** on the localhost and get the search string given by the user.
 * `Step-2` Establish the connection with the database using pymongo and search for the required data in the database-
