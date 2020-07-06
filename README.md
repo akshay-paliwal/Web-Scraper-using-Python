@@ -34,7 +34,7 @@ Also, the project requires some HTML and CSS knowledge to build the web pages fo
       * `Step-2.2.4` Extract the required data from the parsed HTML document.
       * `Step-2.2.5` Save the gathered data into the database and return the **"result.html"** with the extracted data.
       
-## Data
+## Result
 In this project, I extracted the job data from Linkedin which include the Job type, Company name, Location, and URL of the job.
 
 I ran the app on my local device with Search string as ***Java*** and got the following desired result...
